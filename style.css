@@ -1,0 +1,59 @@
+body {
+background-color: AliceBlue;
+font-family: Noto Sans KR, sans-serif;
+font-size : 14px;
+text-align : center;
+}
+.head {
+padding-top : 20px;
+text-align : center;
+line-height : 1.5;
+font-size : 1.4em;
+font-weight : 500;
+color : #000000;
+}
+.card {
+background-color: #ffffff;
+margin : 20px 10px;
+padding : 10px 20px;
+border-radius : 2em;
+box-shadow: 0 4px 8px 0 rgba(150, 150, 150, 0.1), 0 6px 10px 0 rgba(150, 150, 150, 0.1);
+text-align : left;
+line-height : 1.5;
+word-break: keep-all;
+overflow-wrap: break-word;
+font-size : 1em;
+font-weight : 500;
+color : #000000;
+}
+.not {
+color : #ff0000;
+text-decoration : underline;
+}
+.correct {
+color : #0000ff;
+}
+.mid {
+text-align : center;
+}
+ul {
+list-style-type : none;
+margin : 0;
+padding : 0;
+}
+a:link, a:visited {
+background-color: #ffffff;
+margin : 10px;
+padding : 10px;
+border-radius : 1em;
+box-shadow: 0 4px 8px 0 rgba(150, 150, 150, 0.1), 0 6px 10px 0 rgba(150, 150, 150, 0.1);
+text-align: center;
+line-height : 1.5;
+word-break: keep-all;
+overflow-wrap: break-word;
+font-size : 1em;
+font-weight : 500;
+color : #000000;
+text-decoration: none;
+display: inline-block;
+}
